@@ -16,15 +16,15 @@ Cairo, Egypt · Open to remote roles
 
 ## About me
 
-I've spent 10 years shipping features end to end, from React front ends to .NET and Node.js APIs and the data models underneath. Today I lead the engineering team building the AI platform at **Ementra.AI**, where I built an LLM marketing agent that turns campaign ideas into full campaign plans, grounded in company knowledge through a RAG layer.
+I've spent 10 years shipping features end to end, from React front ends to .NET and Node.js APIs and the data models underneath. Today I lead the engineering team building an AI platform for marketing workflows, where I built an LLM marketing agent that turns campaign ideas into full campaign plans, grounded in company knowledge through a RAG layer.
 
 Before that I worked on systems where mistakes are expensive: fintech payment platforms on Azure, fraud and risk pipelines on AWS, and healthcare data exchange with HL7 and X12 835/837 EDI.
 
 ## Highlights
 
-- **Leading AI platform engineering** at Ementra.AI: LLM agent, RAG knowledge layer and the React front end
+- **Leading AI platform engineering**: LLM agent, RAG knowledge layer and the React front end
 - **Millions of records a day at 99.9% reliability** on fintech payment services (C#/.NET on Azure)
-- **About 40× faster production data processing** with new .NET backend tooling at Elsewedy Electric
+- **About 40× faster production data processing** with new .NET backend tooling on a smart metering platform
 - **Healthcare interoperability**: schema-driven HL7 and X12 835/837 parsers routed through the Iguana integration engine
 - **Secure by default**: built an OAuth 2.0 authentication service on IdentityServer for fintech apps
 - **Published research** in [IEEE Xplore](https://ieeexplore.ieee.org/document/7591593)
@@ -57,15 +57,15 @@ Before that I worked on systems where mistakes are expensive: fintech payment pl
 
 ## Experience
 
-| Role | Company | When |
+| Role | Domain | When |
 | --- | --- | --- |
-| AI Platform Engineer | Ementra.AI · AI marketing platform | 2025 – now |
-| Senior Software Developer | Authority Partners · fintech payments | 2023 – 2025 |
-| Senior Full-Stack Developer | MentorMate · healthcare data exchange | 2022 – 2023 |
-| Senior Software Developer | CIGEN · fintech fraud and risk | 2020 – 2022 |
-| Full-Stack Session Lead (part-time) | Udacity | 2021 |
-| Senior Software Developer | Elsewedy Electric · smart metering | 2017 – 2020 |
-| Software Developer | ITWorx · enterprise GIS | 2016 – 2017 |
+| AI Platform Engineer | AI platform for marketing workflows | 2025 – now |
+| Senior Software Developer | Fintech payment platforms | 2023 – 2025 |
+| Senior Full-Stack Developer | Healthcare data exchange | 2022 – 2023 |
+| Senior Software Developer | Fintech fraud and risk analytics | 2020 – 2022 |
+| Full-Stack Session Lead (part-time) | Online tech education | 2021 |
+| Senior Software Developer | Smart metering and industrial systems | 2017 – 2020 |
+| Software Developer | Enterprise GIS | 2016 – 2017 |
 
 ## Let's talk
 
